@@ -44,3 +44,14 @@ tick tock
 There is so much more to npm that you should learn.
 
 Luckily they have such great documentation, we won't need to go over it too extensively here. Just go to https://docs.npmjs.com/getting-started/what-is-npm and follow the getting started guide all the way through.
+
+##NPM Scripts
+What are npm Scripts?
+
+Take a look in your package.json and you will see an object key called "Scripts" with a test field beside it. You can populate this scripts your self with shell commands that will run when you type npm + the command key you want to run.
+
+For example, I may have a start script that I want to run. I would label the script "start":"node fileIWantToRun.js"
+
+since typing node file.js simply runs your javascript file, you can now type "npm start" and your selected file will run all the time.
+
+Many projects have much more complex scripts which we will soon explore together.
