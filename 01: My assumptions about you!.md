@@ -9,3 +9,5 @@
 4. You may have heard or read about some es6 concepts, but haven't really used them yet. eg.. arrow functions, javascript classes, promises, destructuring, etc...
 
 5. You aren't sure where to get started learning more advanced stuff, all the tutorials are either way too easy, or way too hard for you. You need some dots connected.
+
+##LET US KNOW WHAT YOU WANT! 
