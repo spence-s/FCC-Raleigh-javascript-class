@@ -14,3 +14,5 @@
 4. I am very detail oriented and I promise I won't lead any of you astray, you will be learning many best practices, and I will try my best to give you contextual grounds for everything that you learned.
 
 5. I just learned all of this stuff no more than a few months ago, so I am really familiar with the challenges you may face while learning. Hopefully I will be able to connect some dots better than more experienced guides!
+
+[next >>](./01: My assumptions about you!.md)

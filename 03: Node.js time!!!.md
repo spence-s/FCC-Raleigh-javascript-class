@@ -29,3 +29,5 @@ Follow the instructions.
 When you have it installed, open up a terminal or command line and type node -v if you get something back like v6.9.4, then you have it installed correctly.
 
 ###Questions, Comments, and Help time!
+
+[next >>](./04: NPM.md)

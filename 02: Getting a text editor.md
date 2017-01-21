@@ -28,3 +28,6 @@ There are a lot more options out there, these are the ones I am familiar with, f
 After downloading Atom, since we will be working with react and es6 very soon, we should get a package that properly color codes our react syntax. This will make reading the code MUCH easier.
 
 find your atom preferences page >> navigate to "Install +" >> search for babel. Then download the language-babel package that has 700000+ installs.
+
+
+[next >>](./03: Node.js time!!!.md)

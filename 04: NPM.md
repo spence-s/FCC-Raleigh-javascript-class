@@ -55,3 +55,5 @@ For example, I may have a start script that I want to run. I would label the scr
 since typing node file.js simply runs your javascript file, you can now type "npm start" and your selected file will run all the time.
 
 Many projects have much more complex scripts which we will soon explore together.
+
+[next >>](./05:create-react-app.md)

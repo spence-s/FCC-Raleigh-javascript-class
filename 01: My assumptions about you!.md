@@ -10,4 +10,6 @@
 
 5. You aren't sure where to get started learning more advanced stuff, all the tutorials are either way too easy, or way too hard for you. You need some dots connected.
 
-##LET US KNOW WHAT YOU WANT! 
+##LET US KNOW WHAT YOU WANT!
+
+[next >>](./02: Getting a text editor.md)
