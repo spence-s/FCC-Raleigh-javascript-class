@@ -14,7 +14,8 @@ Atom is highly customizeable, configurable, has an active community, and really 
 
 Sublime text is probably the biggest text editor on the market for javascript. I have never used it, but it is free, although they do ask that you pay at some point, you can use the free license forever. There are a lot of tools for writing code very quickly that may have advantages over atom in the long run, and its been around for longer so there are more tutorials for becoming a power user.
 
-####[Nuclide](./A plug for Nuclide,md) *A member of the event, Mitch Rees-Jones, shared this on our facebook page, I thought it was an excellent write up. I would totally encourage anyone to try nuclide*
+[Nuclide](./A plug for Nuclide.md) 
+*A member of the event, Mitch Rees-Jones, shared this reccomendation for Nuclide on our facebook page, I thought it was an excellent write up. I would totally encourage anyone to try nuclide*
 
 vim if you wan't to be really hardcore this is a bash(terminal/command line) based text editor. It is very popular and has a big community of great developers making packages for it.
 
