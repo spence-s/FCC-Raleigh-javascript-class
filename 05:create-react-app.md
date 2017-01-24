@@ -26,3 +26,5 @@ First, let's open up our package.json file in our newly created react app.
 You will see that for dependencies, there are only 2, react and react-dom. There are three scripts called start, build, test, and a fourth called eject.
 
 See, when a react app is created through create-react-app instead of listing the dependencies, they use this kind of behind the scenes code called react scripts to run your program.
+
+##Ejecting a create-react-app
