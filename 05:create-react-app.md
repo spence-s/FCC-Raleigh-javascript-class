@@ -6,10 +6,6 @@
 
 create-react-app is a package, maintained by facebook, which provides us with all the starter code we need to write a react application.
 
-You might be thinking to yourself, "Gee why do I need a starter package to write some React code? I can use jquery with just some simple script tags?"
-
-Before we answer that question, lets actually take a look at some react code. I think it will help a lot if we have a react project that we can look at, and then explain what is going on with all that code!
-
 1. In your shell type `npm install -g create-react-app` and wait for it all to download
 2. In your shell type `create-react-app learn-react` and wait for it download
 
@@ -28,3 +24,38 @@ You will see that for dependencies, there are only 2, react and react-dom. There
 See, when a react app is created through create-react-app instead of listing the dependencies, they use this kind of behind the scenes code called react scripts to run your program.
 
 ##Ejecting a create-react-app
+You will see in your scripts that you have an npm run eject script avaialable to you to run in the terminal. 
+
+type: `npm run eject` in your terminal 
+
+You will see the terminal working. After it is finished, go back to your project, then inpsect your package.json.
+A lot has changed! Now there are lots of dependencies listed! Holy cow. 
+
+You may not have been aware but there is a lot going on behind the development of a react app!
+
+Create react app is a utility that takes all that out of your hands so you can focus on javascript and not on setup! 
+
+You may want to eject your app when you become an advanced react coder and want to customize your setup, for now, let's just forget that all this is going on behind the scenes. Unfortunately, once you eject out of your create-react-app set up, there is no way to go back. The only way to get rid of all that stuff in your project is to create a  new create-react-app. There is nothing wrong with writing your code in the ejected app, but I prefer to have my code and projects as clean and easy to read and understand as possible... Especially while I am learning. 
+
+Let's go ahead and create a new project. 
+
+Go to your terminal and navigate to a folder where youd like to create a new project. 
+
+In your shell type `create-react-app hello-world` and wait for it download.
+
+###More on create-react-app
+Create react app is a very complex package that makes development very simple. However, you may be interested in learning more about what is going on behind the scenes in your react project. We will not cover that in this tutorial/blog/writeup but we can point you to some solid rouesources.
+
+One of the best resources is the [documentation for create-react-app](https://github.com/facebookincubator/create-react-app). 
+
+Another resource, which we will begin using heavily, and that I highly reccomend as a supplemental guide for learning react is the free e-book by fullstack-react called [30 Days of React](https://www.fullstackreact.com/30-days-of-react/)
+
+Get it here: [30 Days of React](https://www.fullstackreact.com/30-days-of-react/)
+
+30 Days of React will help you cement and explain the knowledge we cover here. If this is your first time learning React, you will need a lot more work than just this class to remember all the concepts and what not. 
+I will also be referencing some examples and well worded explanatiions from there as well throughout this class/course/blogpost/ whatever the hell this is. 
+
+next well start diving into some react code itself!
+
+
+[next >>](./06: Comppnents, Classes, and Elements.md)
