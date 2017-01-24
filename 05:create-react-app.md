@@ -55,7 +55,9 @@ Get it here: [30 Days of React](https://www.fullstackreact.com/30-days-of-react/
 30 Days of React will help you cement and explain the knowledge we cover here. If this is your first time learning React, you will need a lot more work than just this class to remember all the concepts and what not. 
 I will also be referencing some examples and well worded explanatiions from there as well throughout this class/course/blogpost/ whatever the hell this is. 
 
-next well start diving into some react code itself!
+Create-react-app is talked about it chapter 12 of the e-book, but the explanations for the moving parts of React that come before that are very very good. 
+
+next well start diving into some react code itself! I reccomend reading the first 4 chapters of the e-book before moving forward. 
 
 
 [next >>](./06: Comppnents, Classes, and Elements.md)
